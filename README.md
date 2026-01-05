@@ -73,7 +73,7 @@ The final result goes beyond the tutorial and reflects personal extensions and r
 
 ## API Documentation
 
-Swagger is enabled in development mode and provides:
+Swagger is enabled and provides:
 
 - Interactive endpoint testing
 - JWT authorization support
